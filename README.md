@@ -96,39 +96,39 @@ Please edit this file to add your answers to the following questions.
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?**http**
+* What is the host?**localhost**
+* What is the port number?**80**
+* What is the path? **admin**
+* What are the query parameters? **none**
+* What is the fragment?**none**
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
+* What is the scheme/protocol?**http**
+* What is the host?**lehman.edu**
+* What is the port number?**80**
+* What is the path?**/academics/mathematics-computer-science**
+* What are the query parameters?**none**
 * What is the fragment?
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?**https**
+* What is the host?**www.lehman.edu**
+* What is the port number? **443**
+* What is the path?**wiki/Greek-alphabet**
+* What are the query parameters?**none**
+* What is the fragment?**#Glyph_variants**
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? **secure**
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? **it is secure**
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? **yes**
 
 
 ## Webpages
