@@ -87,8 +87,8 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?   https
-* What is the host?              nsnsp.org
+* What is the scheme/protocol?   **https**
+* What is the host?              **nsnsp.org**
 * What is the port number?       443
 * What is the path?              /commitments
 * What are the query parameters? date=2017-12-09
