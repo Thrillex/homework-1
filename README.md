@@ -147,11 +147,11 @@ A webpage is a document that is read by web browsers
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
-
+**indeed because I need a job and it is useful for that**
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+I dont have one that I dont like. Maybe IRS.gov
 
 
 ### 13. Resources
@@ -213,19 +213,20 @@ What's the difference between `<head>`, `<header>`, and heading tags?
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
-<table> <th> <tr> <td>
+table th tr td
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-<br> <hr> 
+br hr 
 
 
 ### 23. Links
 
 How do you make a link open in a new window?
 
+target="_blank"
 
 ### 24. IFRAME
 
