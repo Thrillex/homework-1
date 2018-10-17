@@ -141,7 +141,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+A webpage is a document that is read by web browsers
 
 
 ### 11. Webpage I like
@@ -156,14 +156,15 @@ What's one webpage you like? Why?
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+**https://www.w3schools.com**
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+**html 5 <!--doctype html --> **
 
 What is XML?
+**it is html for portable devices**
 
 What is XHTML?
 
@@ -173,6 +174,7 @@ What is XHTML?
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
 
 Are HTML files interpreted or executed?
+**interpreted**
 
 
 ### 16. Browser versioning
@@ -183,22 +185,24 @@ Which versions of Microsoft Internet Explorer support the `<nav>` tag?
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
-
+**a browser**
 
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
+**when a webpage can be used by older web browsers**
 
 What types of people does accessibility concern?
 
 What is one tool you can use to verify the accessibility of your websites?
+**an old web browser**
 
 
 ### 19. head / body
 
-What is the `<head>` tag for?
+What is the `<head>` tag for? **it starts the section that contains information about the webpage**
 
-What is the `<body>` tag for?
+What is the `<body>` tag for?**it starts the section that contains the code for the web page**
 
 
 ### 20. Head…
@@ -209,11 +213,13 @@ What's the difference between `<head>`, `<header>`, and heading tags?
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+<table> <th> <tr> <td>
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
+<br> <hr> 
 
 
 ### 23. Links
@@ -224,8 +230,10 @@ How do you make a link open in a new window?
 ### 24. IFRAME
 
 What is an IFRAME?
+**an iframe creates a window with content from another webpage**
 
 What are IFRAMEs commonly used for?
+**for embedding videos**
 
 
 ## Writing Code
@@ -257,10 +265,12 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
-
+**just right no complaints**
 
 ### 29. Jobs
 
 Add a link to one web development job based in NYC:
+
+https://www.indeed.com/jobs?q=Web%20Developer&l=New%20York%2C%20NY&jt=internship&vjk=42e7e04e02eb19c2
 
 What do you still need to learn to meet the requirements?
